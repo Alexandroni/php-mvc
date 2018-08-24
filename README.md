@@ -5,13 +5,15 @@ This is a PHP sample of MVC standard
 - Public folder
 
   -> contains the files that can be accessed by the user
+  
   -> css/some js
   
   
 - App folder
 
   -> contains all the backend files included Views files
-  -> it is blocked using httac
+  
+  -> it is blocked using htaccess
 
 - All these code was based on the video tutorial: 
 
